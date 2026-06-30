@@ -74,16 +74,6 @@ I'm a Computer Science student passionate about building intelligent application
 
 ---
 
-## 📊 GitHub Stats
-
-> Replace **sritej2421** below with your GitHub username.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=github_dark\&hide_border=true)
-
----
-
 ## 📫 Connect with Me
 
 * 📧 **Email:** <a href="mailto:sritej2421@gmail.com">[sritej2421@gmail.com](mailto:sritej2421@gmail.com)</a>
